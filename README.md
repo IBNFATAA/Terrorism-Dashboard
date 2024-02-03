@@ -1,1 +1,2 @@
-# Terrorism-Dashboard
+# Global Terrorism Analysis
+
